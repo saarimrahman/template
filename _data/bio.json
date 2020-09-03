@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Saarim Rahman",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://techfolios.github.io/images/profile_pic.jpg",
+    "email": "saarimrahman@berkeley.edu",
+    "phone": "",
+    "website": "https://saarimrahman.github.io",
+    "summary": "I am a 3rd year student studying Electrical Engineering and Computer Science at the University of California, Berkeley. I expect to graduate in Spring, 2022.",
     "location": {
       "address": "",
       "postalCode": "96822",
