@@ -50,60 +50,114 @@
       "level": "",
       "keywords": [
         "C",
-        "C++",
+        "Python",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "RISC-V",
+        "SQL",
+        "React.js"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Toolsets/Packages",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
+        "Pandas",
+        "Numpy",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "MongoDB",
+        "AWS RDS",
+        "MySQL",
+        "OpenMP",
+        "SIMD",
+        "JUnit",
+        "Cypress",
+        "Jira"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "University of California, Berkeley",
+      "area": "Electrical Engineering and Computer Science (expected May, 2022)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2018-09-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
+        "CS 61B - Data Structures & Algorithms", 
+        "CS 61C - Computer Architecture", 
+        "CS 188 - Artificial Intelligence", 
+        "CS 70 - Discrete Mathematics & Probability Theory", 
+        "EECS 126 - Probability and Random Processes", 
+        "CS 170 - Efficient Algorithms & Intractable Problems (IP)", 
+        "DATA 100 - Principles and Techniques of Data Science (IP)"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "MarkLogic",
+      "position": "Software Engineering Intern",
+      "website": "https://www.marklogic.com/",
+      "startDate": "2020-06-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Contributed directly to the Data Hub team as a full-stack developer",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Engineered solutions to formatting, sorting, and faceting on data with Java & Spring Boot",
+        "Wrote rigorous user simulation tests utilizing Jest, Junit, Cypress, and React Testing Library"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Avenu Inc.",
+      "position": "Software Developer Intern",
+      "website": "https://www.avenuapp.com/",
+      "startDate": "2019-04-01",
+      "endDate": "2020-04-15",
+      "summary": "Worked closely with CTO to develop mobile application for a rising startup.",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Developed and prototyped UI/UX for a social media mobile app in React Native",
+        "Engineered backend API routes in Python & Flask; queried SQL tables to create app functionality",
+        "Achieved a 33% reduction in load time for users posts, messages, and linked events"
+      ]
+    },
+    {
+      "company": "Blockchain at Berkeley",
+      "position": "Internal Software Developer",
+      "website": "https://blockchain.berkeley.edu/",
+      "startDate": "2018-08-01",
+      "endDate": "2019-02-15",
+      "summary": "Developed internal software for the premiere blockchain hub of the East Bay",
+      "highlights": [
+        "Developed cryptocurrency conversion tool with ID verification using Shapeshift & Civic APIs",
+        "Established dedicated RESTful API-centric design for easy conversion and verification in React.js",
+        "Created user interface for users to verify themselves and send currency through API"
+      ]
+    },
+    {
+      "company": "Apple",
+      "position": "AppleCare iOS Intern",
+      "website": "https://www.apple.com/support/products/",
+      "startDate": "2017-07-01",
+      "endDate": "2018-05-15",
+      "summary": "One of ten highschool AppleCare iOS interns in the nation",
+      "highlights": [
+        "Provided world class service over the phone to 1000+ customers across North America",
+        "Advised customers on how to use, set-up, and debug devices (iPhone, Apple Watch, AirPods)",
+        "Resolved a variety of customer problems while note-taking and researching technical issues"
+      ]
+    },
+    {
+      "company": "UC Davis",
+      "position": "Undergraduate Research Intern",
+      "website": "https://www.ucdavis.edu/",
+      "startDate": "2016-06-01",
+      "endDate": "2016-10-15",
+      "summary": "Conducted research under guidance of Pieter Naaijkens",
+      "highlights": [
+        "Investigated Quantum Ordered Search Problem improving proximity to theorized lower bound, which is currently restricted by physical limitations",
+        "rogrammed a sparse semidefinite solver to represent Grover’s Algorithm using Python and math based packages like NumPy, SciPy, MATLAB",
+        " Achieved an 84% reduction in time needed to provide solutions using our sparse solver"
       ]
     }
   ],
