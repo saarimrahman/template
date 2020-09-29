@@ -55,7 +55,10 @@
         "Javascript",
         "RISC-V",
         "SQL",
-        "React.js"
+        "React.js",
+        "Scheme",
+        "MapReduce",
+        "Spark"
       ]
     },
     {
@@ -161,7 +164,7 @@
       ]
     }
   ],
-  "volunteer": [
+  "Projects": [
     {
       "organization": "Center for Renewable Energy and Island Sustainability",
       "website": "http://manoa.hawaii.edu/reis",
@@ -190,16 +193,17 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Publication in International Journal of Quantum Information",
+      "date": "Jan 2017",
+      "awarder": "International Journal of Quantum Information",
+      "summary": "Peer reviewed and accepted paper published in International Journal of Quantum Information Vol. 15, No. 02",
+      "url" : ""
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Rotary Academic Excellence Scholarship Recipient",
+      "date": "Aug 2016",
+      "awarder": "Laguna Sunrise Rotary",
+      "summary": "Received 2x for academic excellence in conjuction with Elk Grove Regional Scholarship Foundation"
     }
   ],
   "references": [
