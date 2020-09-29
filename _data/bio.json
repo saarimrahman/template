@@ -117,7 +117,7 @@
       "website": "https://www.avenuapp.com/",
       "startDate": "2019-04-01",
       "endDate": "2020-04-15",
-      "summary": "Worked closely with CTO to develop mobile application for a rising startup.",
+      "summary": "Worked closely with CTO to develop mobile application for a rising startup",
       "highlights": [
         "Developed and prototyped UI/UX for a social media mobile app in React Native",
         "Engineered backend API routes in Python & Flask; queried SQL tables to create app functionality",
@@ -191,13 +191,20 @@
       ]
     }
   ],
+  "projects": [
+    {
+      "name": "Crypto Bot",
+      "description": "Script that automatically identified and placed favorable trades on Binance by parsing real time financial metrics and evaluating social media sentiment on high volume cryptocurrencies",
+      "keywords": ["Python", "Binance", "sentiment"]
+    }
+  ],
   "awards": [
     {
-      "title": "Publication in International Journal of Quantum Information",
+      "title": "Research Publication",
       "date": "Jan 2017",
       "awarder": "International Journal of Quantum Information",
       "summary": "Peer reviewed and accepted paper published in International Journal of Quantum Information Vol. 15, No. 02",
-      "url" : ""
+      "url" : "yes"
     },
     {
       "title": "Rotary Academic Excellence Scholarship Recipient",
