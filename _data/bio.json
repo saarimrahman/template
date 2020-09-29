@@ -2,51 +2,39 @@
   "basics": {
     "name": "Saarim Rahman",
     "label": "Student",
-    "picture": "https://techfolios.github.io/images/profile_pic.jpg",
+    "picture": "https://saarimrahman.github.io/images/profile_pic.jpg",
     "email": "saarimrahman@berkeley.edu",
     "phone": "",
     "website": "https://saarimrahman.github.io",
     "summary": "I am a 3rd year student studying Electrical Engineering and Computer Science at the University of California, Berkeley. I expect to graduate in Spring, 2022.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "94704",
+      "city": "Berkeley",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "California"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "saarimrahman",
+        "url": "http://github.com/saarimrahman"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "saarimrahman",
+        "url": "http://linkedin.com/in/saarimrahman"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "data analytics",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "misinformation",
       "keywords": [
       ]
     },
